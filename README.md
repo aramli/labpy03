@@ -29,8 +29,7 @@ KELAS   : TI.25 C.5
   <li>Program</li>
   <img src="https://github.com/aramli/labpy03/raw/main/img/7.png" width="400"/>
   <li>Hasil Program</li>
-  <img src="https://github.com/aramli/labpy03/raw/main/img/8.png" width="400"/>
-  
+  <img src="https://github.com/aramli/labpy03/raw/main/img/8.png" width="400"/><br>
   <li>Penjelasan Kode</li>
   <img src="https://github.com/aramli/labpy03/raw/main/img/9.png" width="700"/><br>
   1. Kode berfungsi untuk menyimpan nilai uang 100jt pada varibel 'modal_awal'. Kemudian 'total_awal' berfungsi untuk menyimpan data akumulasi lama selama 8 bulan. Selanjutnya kode menampilkan judul laporan.<br><br>
