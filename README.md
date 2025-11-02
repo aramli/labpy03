@@ -45,6 +45,25 @@ KELAS   : TI.25 C.5
 # Latihan 3
 <ul>
   <li>Program</li>
+  <img src="https://github.com/aramli/labpy03/raw/main/img/13.png" width="400"/>
   <li>Hasil Program</li>
+  <img src="https://github.com/aramli/labpy03/raw/main/img/14.png" width="400"/><br>
+  
   <li>Penjelasan Kode</li>
+  <img src="https://github.com/aramli/labpy03/raw/main/img/15.png" width="700"/><br>
+  1. Kode berfungsi menyimpan nilai saldo pada variabel 'saldo'.<br><br>
+  <img src="https://github.com/aramli/labpy03/raw/main/img/16.png" width="700"/><br>
+  2. Kode berfungsi looping kode agar berjalan terus hingga pengguna memilih kondisi keluar (break).<br><br>
+  <img src="https://github.com/aramli/labpy03/raw/main/img/17.png" width="700"/><br>
+  3. Kode berfungsi untuk menampilkan menu program dalam format yang rapi menggunakan f-string.<br><br>
+  <img src="https://github.com/aramli/labpy03/raw/main/img/18.png" width="700"/><br>
+  4. Kode berfungsi sebagai inputan, meminta pengguna memilih tarik uang, atau keluar<br><br>
+  <img src="https://github.com/aramli/labpy03/raw/main/img/19.png" width="700"/><br>
+  5. Kode berfungsi untuk pengkondisian, Cek apakah saldo masih tersedia (saldo > 0 ). Jika iya maka , minta jumlah penarikan, kemudian jika jumlah penarikan kurang dari atau sama dengan saldo, kurangi saldo dan tampilkan pesan berhasil. Jika lebih besar dari saldo, tampilkan pesan "Maaf, saldo anda tidak mencukupi." Begitupula jika saldo 0 maka tampilkan pesan "Maaf, saldo anda tidak mencukupi."
+<br><br>
+  <img src="https://github.com/aramli/labpy03/raw/main/img/20.png" width="700"/><br>
+  6. Kode berfungsi untuk keluar dari kondisi looping. Jika pengguna memilih 2, tampilkan pesan terima kasih dan keluar dari loop dengan break.
+<br><br>
+  <img src="https://github.com/aramli/labpy03/raw/main/img/21.png" width="700"/><br>
+  7. Kode berfungsi untuk menanggani inputan yang bukan 1 atau 2. Sehingga jika pengguna memilih inputan selain itu maka tampilkan pesan "Pilihan tidak valid. Silakan pilih 1 atau 2."<br><br>
 </ul>
