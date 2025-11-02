@@ -22,15 +22,25 @@ KELAS   : TI.25 C.5
 <br><br>
 <img src="https://github.com/aramli/labpy03/raw/main/img/6.png" width="700"/><br>
   4. Kode berfungsi loop while akan terus berjalan hingga variable 'x' mencapai value dari 'jum_bil'. Kemudian setelah itu program menghasilkan nilai acak yang di simpan dalam variable 'nilai_random'. Lalu masuk kepada kondisi if , dimana jika bilangan acak kurang dari 0.5 maka tampilkan bilangan<br><br>
-
-
 </ul>
 
 # Latihan 2
 <ul>
   <li>Program</li>
+  <img src="https://github.com/aramli/labpy03/raw/main/img/7.png" width="400"/>
   <li>Hasil Program</li>
+  <img src="https://github.com/aramli/labpy03/raw/main/img/8.png" width="400"/>
+  
   <li>Penjelasan Kode</li>
+  <img src="https://github.com/aramli/labpy03/raw/main/img/9.png" width="700"/><br>
+  1. Kode berfungsi untuk menyimpan nilai uang 100jt pada varibel 'modal_awal'. Kemudian 'total_awal' berfungsi untuk menyimpan data akumulasi lama selama 8 bulan. Selanjutnya kode menampilkan judul laporan.<br><br>
+  <img src="https://github.com/aramli/labpy03/raw/main/img/10.png" width="700"/><br>
+  2. Kode berfungsi untuk melakukan iterasi dari bulan ke-1 hingga bulan ke-8.<br><br>
+  <img src="https://github.com/aramli/labpy03/raw/main/img/11.png" width="700"/><br>
+  3. Kode berfungsi pengondisian perhitungan laba di setiap bulannya, terdapat kodisi dengan laba 1%, 5%, dan 3%.<br><br>
+  <img src="https://github.com/aramli/labpy03/raw/main/img/12.png" width="700"/><br>
+  4. Kode berfungsi untuk menampilkan data tiap bulan , lalu menambahkan laba bulan tersebut ke variabel 'total_laba'. Selanjutnya menampilkan hasil total laba<br><br>
+  
 </ul>
 
 # Latihan 3
